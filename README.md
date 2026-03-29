@@ -1,4 +1,4 @@
-# AI Test Case Generator 🚀
+# AI Test Case Generator 
 
 A full-stack AI-powered web application that generates structured QA test cases from system requirements.
 
